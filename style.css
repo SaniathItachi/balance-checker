@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header h1{
+    text-align: center;
+    font-weight: 500;
+    color: rgb(44, 145, 200);
+    margin-top: 20px;
+}
+/* main section css starts here */
+.main{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.top{
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+.income{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 50px;
+}
+input{
+    outline: none;
+}
+.middle{
+    margin-left: 120px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+
+}
+.expences{
+    text-align: right;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 50px;
+}
+.info-box{
+    margin-top: 15px;
+}
+.btn1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.btn1 button{
+    outline: none;
+    width: 150px;
+}
+
+/* cost css starts here */
+.cost{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#save{
+    margin-left: 20px;
+    width: 100px;
+}
+.mark{
+    margin-left: 20px;
+}
+.msg{
+    text-align: center;
+    color: red;
+    font-weight: 500;
+    margin-top: 30px;
+    font-size: 30px;;
+}
+#not-matches{
+    display: none;
+}
